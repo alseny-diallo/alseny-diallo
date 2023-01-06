@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is alseny-diallo=====================================================================================================================================Software developper-------------------* 🌍  I'm based in Dakar,Senegal* 🖥️  See my portfolio at [alseny](http://alseny-diallo.github.io/)* ✉️  You can contact me at [alsenydiallo0409@gmail.com](mailto:alsenydiallo0409@gmail.com)* 🧠  I'm learning javascrit technologies, react and next.js* 🤝  I'm open to collaborating on practically any project, I really like discovering and doing new things
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is alseny-diallo
+=====================================================================================================================================
+Software developper
+-------------------
+
+* 🌍  I'm based in Dakar,Senegal
+
+* 🖥️  See my portfolio at [alseny](http://alseny-diallo.github.io/)
+
+* ✉️  You can contact me at [alsenydiallo0409@gmail.com](mailto:alsenydiallo0409@gmail.com)
+  
+* 🧠  I'm learning javascrit technologies, react and next.js
+  
+* 🤝  I'm open to collaborating on practically any project, I really like discovering and doing new things
 
 ### Skills
 
@@ -19,7 +32,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/alseny-diallo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alseny-diallo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/alseny-diallo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alseny-diallo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <!---
 alseny-diallo/alseny-diallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
