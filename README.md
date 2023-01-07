@@ -5,7 +5,7 @@ Software developper
 
 * 🌍  I'm based in Dakar,Senegal
 
-* 🖥️  See my portfolio at [alseny](https://alseny-diallo.onrender.com)
+* 🖥️  See my portfolio at [alseny](https://alseny-diallo.github.io/)
 
 * ✉️  You can contact me at [alsenydiallo0409@gmail.com](mailto:alsenydiallo0409@gmail.com)
   
